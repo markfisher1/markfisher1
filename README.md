@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markfisher1
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, PHP, and Node.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me princedaniel0997@gmail.com
 
